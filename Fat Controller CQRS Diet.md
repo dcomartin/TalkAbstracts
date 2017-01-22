@@ -10,3 +10,4 @@ Thin out your controllers by only using your web framework for what it's good at
 
 Attendees will learn how to organize code by feature by leveraging CQRS and the Mediator pattern to decouple their core
 business capabilities from your web framework.
+
