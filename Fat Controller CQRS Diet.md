@@ -1,4 +1,4 @@
-# Thin Controllers with CQRS
+# Fat Controller CQRS Diet
 
 ## Abstract
 
@@ -8,5 +8,5 @@ Fat controllers can quickly lead to tight coupling by the abundance validation, 
 
 Thin out your controllers by only using your web framework for what it's good at: HTTP, Routing, and Serialization.
 
-Attendees will learn to how to organize code by feature by leverage CQRS and the Mediator pattern to decouple your core
+Attendees will learn how to organize code by feature by leveraging CQRS and the Mediator pattern to decouple their core
 business capabilities from your web framework.
