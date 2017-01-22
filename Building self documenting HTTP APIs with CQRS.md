@@ -9,7 +9,7 @@ of your application.  Making it much harder to change your API.
 
 Go beyond serializing a database row into json by leveraging CQRS.
 
-Start designing designing an HTTP API like a regular HTML websites.  Bringing the concepts of HTML links and forms
+Start designing an HTTP API like a regular HTML website.  Bringing the concepts of HTML links and forms
 to your API allows your clients to consume it with ease.
 
 Attendees will learn how to design an HTTP API by leveraging CQRS and hypermedia to decouple their core application
