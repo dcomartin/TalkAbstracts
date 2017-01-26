@@ -10,4 +10,4 @@ such as accounting, which is a naturally event sourced.  But what other domains 
 and when should you concider using it?
 
 Attendees will learn about key lessons learned in the development of real world event sourced systems.
-Enabling them to make decisions on when and where event sourcing may be applicable implement.
+Enabling them to make decisions on when and where to use event sourcing.
