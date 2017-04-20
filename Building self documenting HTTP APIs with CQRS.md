@@ -1,5 +1,4 @@
-# Building self documenting HTTP APIs with CQRS
-
+# Building self descriptive HTTP APIs
 ## Abstract
 
 Does your HTTP API expose your database structure?
@@ -12,5 +11,5 @@ Go beyond serializing a database row into json by leveraging CQRS.
 Start designing an HTTP API like a regular HTML website.  Bringing the concepts of HTML links and forms
 to your API allows your clients to consume it with ease.
 
-Attendees will learn how to design an HTTP API by leveraging CQRS and hypermedia to decouple their core application
+Attendees will learn how to design an HTTP API by leveraging hypermedia and media types to decouple their core application
 from their HTTP API.
