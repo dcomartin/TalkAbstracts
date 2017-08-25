@@ -1,4 +1,4 @@
-# Building self descriptive HTTP APIs
+# Building Self Descriptive HTTP APIs
 
 ## Abstract
 
