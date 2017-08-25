@@ -1,4 +1,4 @@
-# Verticle Feature Slices, not Layers!
+# Vertical Feature Slices, not Layers!
 
 ## Abstract
 
