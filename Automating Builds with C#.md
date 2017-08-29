@@ -1,10 +1,9 @@
-# Automating Builds with C#
+# Works On My Machine! Automating Builds with C#
 
 ## Abstract
 
-Building from Visual Studio or the dotnet CLI can often have very different results than your CI Server.  
+Building from Visual Studio or the dotnet CLI can often have very different results than your CI Server.  "Works on my machine!" isn't what you want to hear when your application won't build on your CI server.
 
-Build servers often hide other steps such as storing artifacts, executing tests and packaging.  This makes it almost impossible to
-run the same tasks locally.
+Build servers typically hide other steps such as storing artifacts, transformation, executing tests and packaging.  This makes it almost impossible to run the same tasks locally.
 
-Attendees will learn how to create build scripts using Cake (C# Make) to execute and build, test and deploy from anywhere.
+In this presentation we will learn how to create custom build scripts using C# to execute, build, test and deploy from anywhere!
