@@ -6,4 +6,4 @@ Building from Visual Studio or the dotnet CLI can often have very different resu
 
 Build servers typically hide other steps such as storing artifacts, transformation, executing tests and packaging.  This makes it almost impossible to run the same tasks locally.
 
-In this presentation we will learn how to create custom build scripts using C# to execute, build, test and deploy from anywhere!
+In this presentation, we will learn how to create custom build scripts using C# to execute, build, test and deploy from anywhere!
