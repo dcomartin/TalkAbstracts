@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Has your system turned into into a big ball of mud that's difficult to change? Is it a spaghetti-code jungle
+Has your system turned into a big ball of mud that's difficult to change? Is it a spaghetti-code jungle
 of complexity and tight coupling? 
 
 Microservices might seem like the answer with a lot of attractive benefits. But before you jump to 
