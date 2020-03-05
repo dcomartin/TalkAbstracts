@@ -11,5 +11,5 @@ Microservices might seem like the answer with a lot of attractive benefits. But 
 microservices to solve your coupling nightmares, maybe you should consider the modular monolith!
 
 Join Derek as he tackles how to create a modular monolith that has explicit boundaries, well defined 
-interfaces, and modules that are loosely coupled by using some common design patterns used in
+interfaces, and modules that are loosely coupled by using some common design practices used in
 a Microservices architecture.
