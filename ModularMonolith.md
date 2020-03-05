@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Is your application developed using monolithic architecture? Has it turned into a big ball of mud that's 
+Is your application developed using a monolithic architecture? Has it turned into a big ball of mud that's 
 difficult to change because of all the tight coupling?  
 
 Microservices might seem like the answer with a lot attractive benefits. But before you jump to 
