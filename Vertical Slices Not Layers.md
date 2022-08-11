@@ -1,7 +1,10 @@
-# Vertical Feature Slices, not Layers!
+# Vertical Slice Architecture, not Layers!
 
 ## Abstract
 
-Does adding a new feature require you to modify files across multiple projects in your UI, business and data access layers? Tired of mapping DTOs through the various layers of your system? A layered architecture can be a painful when you really develop in vertical slices.
+Nobody wants to deal with a system that is hard to change and easy to introduce bugs because it's a spaghetti code mess of various technical concerns.  
 
-In this presentation, we're going to learn how to develop and organize code by features instead of technical layers.  To start, we will cover the benefits and how to create a vertical slice using SOLID principles.  From there, we'll rewrite and reorganize parts of an existing application.
+Clean Architecture is popular because it forces a separation of concerns into many different layers. But why are we organizing code by layers? 
+Does adding a new feature require you to modify files across multiple projects in your UI, business, and data access layers?
+
+Join Derek as he explains Vertical Slice Architecture and how to organize code and to focus on features instead of technical layers will make your system easier to change.
