@@ -1,4 +1,4 @@
-# Modular Monolith: Microservices the good parts
+# Loosely Coupled Monolith
 
 ## Abstract
 
